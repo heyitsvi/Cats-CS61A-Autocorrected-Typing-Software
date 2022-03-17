@@ -2,7 +2,7 @@
  Made as part of Berkeley 61A SICP
 
 ## Description
-  Project implements a program that measures typing speed. Additionally, it also implements 'typing autocorrect', which is a feature that attempts to correct the spelling of a word after a user types it. This project is inspired by [typeracer] (https://play.typeracer.com/).
+  Project implements a program that measures typing speed. Additionally, it also implements 'typing autocorrect', which is a feature that attempts to correct the spelling of a word after a user types it. This project is inspired by [typeracer](https://play.typeracer.com/).
 
 
 ### To run the project
